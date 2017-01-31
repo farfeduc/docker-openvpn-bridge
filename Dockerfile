@@ -1,4 +1,4 @@
-FROM kylemanna/docker-openvpn
+FROM kylemanna/openvpn
 
 COPY interfaces /etc/network/interfaces
 
